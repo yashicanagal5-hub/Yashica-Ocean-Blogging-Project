@@ -1,4 +1,4 @@
-# 🌊 Ocean Blog Platform
+# 🌊 Yashica Ocean Blog Platform
 
 A modern blog platform built with the MERN stack, featuring real-time interactions, user authentication, and a beautiful design. This project represents my skill enhancement in full-stack development and showcases modern web development practices.
 
